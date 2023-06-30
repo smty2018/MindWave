@@ -7,6 +7,8 @@ Models Used:
 3.Random Forest
 
 Some Imp Data Visualisations:
+
+
 ![image](https://github.com/smty2018/MindWave/assets/74114936/db974854-8920-4a22-8c7e-648caeb594de)
 ![image](https://github.com/smty2018/MindWave/assets/74114936/faab717e-9354-410e-ab21-fd63335bfbe2)
 ![image](https://github.com/smty2018/MindWave/assets/74114936/85c238c7-e53b-4b6b-a9c9-ce327d02bb6e)
