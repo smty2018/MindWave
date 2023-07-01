@@ -2,6 +2,7 @@
 
 ## Implemented Algorithms
 
+ - [Decision Tree CLassifier - Iris Flower CLassification](https://github.com/Sindhu-2004/MindWave/blob/main/Machine%20Learning/iris_classification.ipynb)
 - [Logistic Regression - earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/LogisticRegression_EarthquakePrediction.ipynb)
 - [Naive Bayes classification - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/NaiveBayes_EarthquakePrediction.ipynb)
 - [Support Vector Machine - Earthquake Prediction](https://github.com/ManaswiKasiraju/MindWave/blob/main/Machine%20Learning/SVM_EarthquakePrediction.ipynb)
@@ -40,6 +41,8 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
+sa
+
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -80,6 +83,8 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
+
+
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -88,6 +93,10 @@
 - [Naive Bayes - Kaggle Spam Dataset](https://github.com/PraNavKumAr01/MindWave/blob/main/Machine%20Learning/NaiveBayes%20-%20SpamDataset/MultinomialNaiveBayes_Spam.ipynb)
 
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
+
+
+## Implementation Ideas
+
 - [Logistic Regression - Effective Targeting of Advertisments](./Effective%20Targeting%20of%20Advertisments/)
 
 
@@ -107,6 +116,7 @@
 
 - [Logistic Regression - Pima diabetes classification]( https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
+ main
 - [SVM classification - car acceptability classification](https://www.kaggle.com/datasets/subhajeetdas/car-acceptability-classification-dataset)
 
 - [SVM classification - Twitter Sentiment Analysis for COVID](https://github.com/ranodeepbanerjee/MindWave/blob/main/Machine%20Learning/SVM%20-%20Twitter%20Sentiment%20Analysis/SVM%20-%20Twitter-sentiment-analysis.ipynb)
@@ -120,6 +130,7 @@
 - [XGBoost Classifier- Chronic Kidney Disease Prediction](https://github.com/ayush-09/MindWave/tree/main/Machine%20Learning/Chronic%20Kidney%20Diseases%20Prediction)
 
 
+data
 - [Logistic Regression_Scikit-Learn Breast Cancer Dataset](https://github.com/adityabachu/MindWave/blob/main/Machine%20Learning/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Prediction/Logistic%20Regression_Scikit-Learn%20Breast%20Cancer%20Dataset.ipynb)
 
 - [Parkinsons disease prediction model](https://github.com/tushtithakur/MindWave/tree/main/Machine%20Learning/Parkinsons%20disease%20prediction%20model)
@@ -218,9 +229,14 @@
 
 - [Loan Status Prediction_Linear-Regression](https://github.com/i-am-SnehaChauhan/MindWave/tree/main/Machine%20Learning/LoanStatusPrediction_Linear-Regression)
 
+  
+- [RandomForest Healthy Food Predictor](https://github.com/barkhaaroraa/MindWave/tree/main/Machine%20Learning/RandomForest_healthy%20food%20predictor)
+
 - [Linear Regression - Medical Insurance Cost - Julia](https://github.com/itsdebartha/MindWave/tree/main/Machine%20Learning/Linear%20Regression%20-%20Medical%20Insurance%20Cost%20-%20Julia)
 
+- [ScikitLearn - Species_Distribution_Modeling](https://github.com/sujanrupu/MindWave/blob/main/Machine%20Learning/ScikitLearn_Species_Distribution_Modeling.ipynb)
 
+ main
 ## Implementation Ideas
 
   - Naive Bayes Classification
